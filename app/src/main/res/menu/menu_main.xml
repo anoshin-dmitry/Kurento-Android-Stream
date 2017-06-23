@@ -1,0 +1,5 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".CreateActivity">
+    <item android:id="@+id/action_switch" android:title="@string/action_switch"
+        android:orderInCategory="100" android:showAsAction="never" />
+</menu>
